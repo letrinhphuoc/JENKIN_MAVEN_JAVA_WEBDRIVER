@@ -25,6 +25,7 @@ public class Selenium_01_CheckEnvironment {
 		String title = driver.getTitle();
 		Assert.assertEquals(title, "Home page");
 		//push code again 
+		//hello 
 	}
 
 	@AfterClass
